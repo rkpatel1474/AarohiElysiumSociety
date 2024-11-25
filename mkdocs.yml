@@ -4,6 +4,8 @@ repo_url: https://github.com/rkpatel1474/AarohiElysiumSociety
 theme:
   name: material
   logo: assets/Images/white_logo.png
+  features:
+    - navigation.expand
 
 
 extra_css:
@@ -12,6 +14,28 @@ extra_css:
 
 nav:  # Custom navigation for the sidebar
   - Introduction: index.md
+  - Rule Book:
+    - 2. General: GeneralRules.md
+    - 3. Safety: Safety.md
+    - 4. Driving: Driving.md
+    - 5. Security: Security.md
+    - 6. Shifting In/Out: Shifting.md
+    - 7. Visitors: Visitors.md
+    - 8. Parking: Parking.md
+    - 9. Lifts: Lifts.md
+    - 10. Gymnasium: Gymnasium.md
+    - 11. Swimming Pool: SwimmingPool.md
+    - 12. Parties | Functions: PartiesFunction.md
+    - 13. House Keeping: HouseKeeping.md
+    - 14. Alterations: Alterations.md
+    - 15. Flat on Rent: FlatRent.md
+    - 16. Maintenance Charges: Maintenance.md
+    - 17. Transfer or Sale of Flat: SaleFlat.md
+    - 18. Servants: Servants.md
+    - 19. Annextures: 
+      - Overview: Annextures.md
+      - Penalties | Fines | Recoveries : Fines.md
+
 
 
 
