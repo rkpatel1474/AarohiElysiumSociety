@@ -25,3 +25,23 @@ p {
     color: #040d1c;
     text-align: center;
 }
+
+.md-header {
+    background-color: #101e34;
+}
+
+/* CSS to apply custom numbering to each list item based on the data-num attribute */
+.custom-number {
+    list-style-type: none; /* Remove default list styling */
+}
+
+.custom-number::before {
+    content: attr(data-num) ". "; /* Insert the custom number from the 'data-num' attribute */
+    font-weight: bold;
+}
+
+/* Sub-list numbering (if you need custom numbering for nested items) */
+.sub-list .custom-number::before {
+    content: attr(data-num) ". "; /* Insert the custom sub-number (e.g., 14.4.1) */
+    font-weight: normal;
+}
