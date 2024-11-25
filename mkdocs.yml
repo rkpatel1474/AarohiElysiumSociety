@@ -1,0 +1,17 @@
+site_name: Aarohi Elysium Commercial and Housing Cooperative Service Society Ltd.
+repo_url: https://github.com/rkpatel1474/AarohiElysiumSociety
+
+theme:
+  name: material
+  logo: assets/Images/white_logo.png
+
+
+extra_css:
+  - assets/css/extra.css
+
+
+nav:  # Custom navigation for the sidebar
+  - Introduction: index.md
+
+
+
