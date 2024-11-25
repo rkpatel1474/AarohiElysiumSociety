@@ -1,0 +1,27 @@
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    fill: currentcolor;
+    display: block;
+    height: 2rem;
+    width: auto;
+}
+
+.md-nav__title {
+    display: none; /* Hides the site name in the sidebar */
+}
+
+
+p {
+    display: block;
+    color: black;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    text-align: justify;
+}
+
+#introduction {
+    color: #040d1c;
+    text-align: center;
+}
