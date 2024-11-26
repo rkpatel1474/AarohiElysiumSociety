@@ -1,3 +1,65 @@
+@media print {
+    /* Set up page size and margins for A4 */
+    @page {
+        size: A4;
+        margin: 15mm;
+        @bottom-left {
+            content: string(author) !important;
+          }
+        @bottom-right {
+            content: string(copyright) !important;
+          }  
+    }
+
+   #author, #copyright {
+    display: none !important;
+   } 
+   /* Adjust font sizes for headings */
+    h1 {
+    font-size: 2.5em; /* Increase size for H1 */
+    margin-bottom: 1em; /* Adjust spacing */
+    }
+
+    h2 {
+    font-size: 2em; /* Increase size for H2 */
+    margin-bottom: 0.8em;
+    }
+
+    h3 {
+    font-size: 1.75em; /* Increase size for H3 */
+    margin-bottom: 0.6em;
+    }
+
+/* Adjust font size for paragraphs */
+    p {
+    font-size: 1.25em; /* Increase size for paragraphs */
+    line-height: 1.4; /* Adjust line height for readability */
+    }
+
+/* Optional: Adjust list items */
+    li {
+    font-size: 1.25em !important;
+    line-height: 2 !important;
+    margin-bottom: 7px;
+    }
+
+
+/* Optional: Adjust table font sizes */
+    table {
+    font-size: 1.1em; /* Increase size for table text */
+    }
+
+/* Customize overall font family if needed */
+    body {
+    font-family: 'Arial', sans-serif; /* Change to your preferred font */
+    }
+    .pdf-order {
+        display: none !important;
+    }
+
+}
+
+
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
     fill: currentcolor;
     display: block;
@@ -45,3 +107,5 @@ p {
     content: attr(data-num) ". "; /* Insert the custom sub-number (e.g., 14.4.1) */
     font-weight: normal;
 }
+
+

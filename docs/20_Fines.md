@@ -1,7 +1,7 @@
-# 19 Penalties | Fines | Recoveries
+# Penalties | Fines | Recoveries
 
 The following fines will be leviable upon the violations of rules and regulations and for creating public disorder within the Society premises:
-<ol type="1">
+<ol type="A">
 <li>Fine for Smoking / Spitting / littering in the common area of the Society : Rs.500/-</li>
 <li>Fine for fire crackers or camp-fire inside the Society premises : Rs. 1000/-</li>
 <li>Fine for not cleaning the area spoiled by Pets (Urinate/Defecate) : Rs. 1000/-</li>
