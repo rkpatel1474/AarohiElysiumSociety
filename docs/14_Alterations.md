@@ -12,7 +12,7 @@
             <li class="custom-number" data-num="14.4.1">R.C.C. beams and columns must not be damaged or modified under any circumstances. In case of any damage, the repair cost to the entire structure of the Building, as certified by an approved Structural Engineer, will be borne by the Owner of the Flat who caused it.</li>
             <li class="custom-number" data-num="14.4.2">Wall, ceiling, or any other parts of the adjoining flats must not be damaged. Any damages that might occur, the repair cost will have to be borne by the Owner of the flat who caused it.</li>
         </ol>
-    </li>
+</li>
 
 <li class="custom-number" data-num="14.5">Work shall be carried out on all seven days of the week within the permitted hours of 9:00 AM to 7:00 PM. However, "silent hours" must be strictly observed from 2:00 PM to 4:00 PM daily. During these hours, all ongoing work must stop, and it is the responsibility of the member to ensure that this information is communicated to the workers. Additionally, workers are strictly prohibited from staying overnight in the building under any circumstances. Failure to adhere to these rules will result in a fine as per Annexture A(8) being imposed.</li>
 

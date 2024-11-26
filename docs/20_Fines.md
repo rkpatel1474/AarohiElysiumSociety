@@ -1,3 +1,5 @@
+# 19 Penalties | Fines | Recoveries
+
 The following fines will be leviable upon the violations of rules and regulations and for creating public disorder within the Society premises:
 <ol type="1">
 <li>Fine for Smoking / Spitting / littering in the common area of the Society : Rs.500/-</li>

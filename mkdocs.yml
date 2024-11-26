@@ -15,26 +15,26 @@ extra_css:
 nav:  # Custom navigation for the sidebar
   - Introduction: index.md
   - Rule Book:
-    - 2. General: GeneralRules.md
-    - 3. Safety: Safety.md
-    - 4. Driving: Driving.md
-    - 5. Security: Security.md
-    - 6. Shifting In/Out: Shifting.md
-    - 7. Visitors: Visitors.md
-    - 8. Parking: Parking.md
-    - 9. Lifts: Lifts.md
-    - 10. Gymnasium: Gymnasium.md
-    - 11. Swimming Pool: SwimmingPool.md
-    - 12. Parties | Functions: PartiesFunction.md
-    - 13. House Keeping: HouseKeeping.md
-    - 14. Alterations: Alterations.md
-    - 15. Flat on Rent: FlatRent.md
-    - 16. Maintenance Charges: Maintenance.md
-    - 17. Transfer or Sale of Flat: SaleFlat.md
-    - 18. Servants: Servants.md
+    - 2. General: 02_GeneralRules.md
+    - 3. Safety: 03_Safety.md
+    - 4. Driving: 04_Driving.md
+    - 5. Security: 05_Security.md
+    - 6. Shifting In/Out: 06_Shifting.md
+    - 7. Visitors: 07_Visitors.md
+    - 8. Parking: 08_Parking.md
+    - 9. Lifts: 09_Lifts.md
+    - 10. Gymnasium: 10_Gymnasium.md
+    - 11. Swimming Pool: 11_SwimmingPool.md
+    - 12. Parties | Functions: 12_PartiesFunction.md
+    - 13. House Keeping: 13_HouseKeeping.md
+    - 14. Alterations: 14_Alterations.md
+    - 15. Flat on Rent: 15_FlatRent.md
+    - 16. Maintenance Charges: 16_Maintenance.md
+    - 17. Transfer or Sale of Flat: 17_SaleFlat.md
+    - 18. Servants: 18_Servants.md
     - 19. Annextures: 
-      - Overview: Annextures.md
-      - Penalties | Fines | Recoveries : Fines.md
+      - Overview: 19_Annextures.md
+      - Penalties | Fines : 20_Fines.md
 
 
 
